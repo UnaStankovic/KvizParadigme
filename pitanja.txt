@@ -1,0 +1,504 @@
+Ko predaje paradigme?
+Milena Vujošević Janičić
+Aleksandar Kartelj
+Nina Radojčić
+Predrag Janičić
+Milena Vujošević Janičić
+Osnovna pitanja
+Koja od narednih NE spada u osnovne paradigme?
+Logička
+Imperativna
+Objektno-orijentisana
+Skript
+Skript
+Osnovna pitanja
+Koji od narednih jezika pripada objektno-orijentisanoj paradigmi?
+C
+Java
+Python
+Fortran
+Java
+Osnovna pitanja
+Koliko nedelja imamo u semestru? 
+13
+15
+11
+12
+13
+Osnovna pitanja
+Značenje reči "paradigma"
+Uzorak,šablon
+Rečenica,reč
+Jezik
+Slika,skica
+Uzorak,šablon
+Osnovna pitanja
+Najopštija podela programskih paradigmi je na
+Objektno-orijentisanu i funkcionalnu
+Logičku i imperativnu
+Proceduralnu i deklarativnu
+Proceduralnu i funkcionalnu
+Proceduralnu i deklarativnu
+Osnovna pitanja
+Dopuni: FORTRAN je nastao ____ godine i njegov tvorac je _________
+1958, John McCarthy
+1957, John Backus
+1958, John Backus
+1957, John McCarthy
+1957, John Backus
+Osnovna pitanja
+Dopuni:  LISP je nastao ____ godine i njegov tvorac je _________
+1958, John McCarthy
+1957, John Backus
+1958, John Backus
+1959, Grace Hopper
+1958, John McCarthy
+Osnovna pitanja
+Dopuni:  COBOL je nastao ____ godine i njegov tvorac je _________
+1958, John McCarthy
+1957, John Backus
+1959, Grace Hopper
+1958, John Backus
+1959, Grace Hopper
+Osnovna pitanja
+Imperativna paradigma je nastala pod uticajem
+Drugog svetskog rata
+Fon Nojmanove arhitekture računara
+Softverske krize 80ih
+Industrijske revolucije
+Fon Nojmanove arhitekture računara
+Imperativna paradigma
+Imperativna paradigma može da se okarakteriše rečenicom
+"prvo uradi ovo, zatim ono"
+"izračunaj vrednost izraza i koristi je"
+"odgovori na pitanje kroz traženje rešenja"
+"uputi poruku objektima, da bi simulirao tok nekog fenomena"
+"prvo uradi ovo, zatim ono"
+Imperativna paradigma
+Logička paradigma može da se okarakteriše rečenicom
+"prvo uradi ovo, zatim ono"
+"izračunaj vrednost izraza i koristi je"
+"odgovori na pitanje kroz traženje rešenja"
+"uputi poruku objektima, da bi simulirao tok nekog fenomena"
+"odgovori na pitanje kroz traženje rešenja"
+Logička paradigma
+Funkcionalna paradigma može da se okarakteriše rečenicom
+"prvo uradi ovo, zatim ono"
+"izračunaj vrednost izraza i koristi je"
+"odgovori na pitanje kroz traženje rešenja"
+"uputi poruku objektima, da bi simulirao tok nekog fenomena"
+"izračunaj vrednost izraza i koristi je"
+Funkcionalna paradigma
+Objektno-orijentisana paradigma može da se okarakteriše rečenicom
+"prvo uradi ovo, zatim ono"
+"izračunaj vrednost izraza i koristi je"
+"odgovori na pitanje kroz traženje rešenja"
+"uputi poruku objektima, da bi simulirao tok nekog fenomena"
+"uputi poruku objektima, da bi simulirao tok nekog fenomena"
+Osnovna pitanja
+Imperativna paradigma procedurom saopštava računaru ____ se problem rešava
+Zašto
+Kako
+Gde
+Kada
+Kako
+Imperativna paradigma
+Osnovni pojam imperativnih jezika je 
+Algoritam
+Naredba
+Promenljiva
+Rekurzija
+Naredba
+Imperativna paradigma
+Imperativna paradigma se karakterise postojanjem
+Funkcija
+Petlji
+Naredbi
+GOTO-ova
+Naredbi
+Imperativna paradigma
+Koji od navedenih jezika ne pripada imperativnoj paradigmi
+COBOL
+C
+Pascal
+Basic
+COBOL
+Imperativna paradigma
+Koji od navedenih jezika pripada imperativnoj paradigmi
+Java
+Python
+PL
+OCaml
+PL
+Imperativna paradigma
+Naredbe se kod imperativne paradigme grupišu u 
+Procedure
+Pakete
+Objekte
+Algoritme
+Procedure
+Imperativna paradigma
+Izbaci uljeza: Upravljačke strukture kod imperativne paradigme su
+Naredbe grananja
+Naredbe iteracije
+Naredbe skoka
+Naredbe dodele
+Naredbe dodele
+Imperativna paradigma
+Kod imperativne paradigme oznake promenljivih su i od memorijskih lokacija što izaziva
+Rekurziju
+Izlazak iz programa
+Bočne efekte
+"Gaženje" vrednosti
+Bočne efekte
+Imperativna paradigma
+Proces izračunavanja kod imperativne paradigme najviše podseća na
+Recept za kuvanje
+Meni u restoranu 
+Uputstvo za sklapanje aviona 
+Rečnik
+Recept za kuvanje
+Imperativna paradigma
+U kojm periodu je nastala objektno-orijentisana paradigma
+60ih
+70ih
+80ih
+90ih
+80ih
+Osnovna pitanja
+Kako objektno-orijentisana paradigma simulira spoljašnji svet
+Objektima
+Crtežima
+Button-ima
+Porukama
+Objektima
+Osnovna pitanja
+Kako su grupisani objekti kod objektno-orijentisane paradigme
+Po paketima
+Po fajlovima
+Po klasama
+Po čipovima
+Po klasama
+Osnovna pitanja
+Izbaci jezik koji ne pripada objektno-orijentisanoj paradigmi
+Simula67
+SmallTalk
+Algol
+C++
+Algol
+Osnovna pitanja
+Kod funkcionalne paradigme naredba
+Postoji
+Može da postoji,ali ne mora - poželjno je da postoji
+Može da postoji,ali ne mora - nije poželjno je da postoji
+Ne postoji
+Ne postoji
+Funkcionalna paradigma
+Funkcionalna paradigma je zasnovana na pojmu
+Matematicke funkcije
+Fizičke spremnosti
+Matematičke pismenosti
+Funkcionalne pismenosti
+Matematicke funkcije
+Funkcionalna paradigma
+Formalna osnova funkcionalnog programiranja ima formalnu osnovu u 
+Predikatskom računu
+Lambda računu
+Metodu rezolucije
+Al Horezmijevom funkcionalnom algoritmu
+Lambda računu
+Funkcionalna paradigma
+Kod funkcionalne paradigme izlazna vrednost funkcije zavisi samo od
+Ulaznih vrednosti argumenata funkcije
+Promena u promenljivama tokom izvršavanja programa
+Od konteksta u kome se nalazi funkcija
+Od stanja u memoriji
+Ulaznih vrednosti argumenata funkcije
+Funkcionalna paradigma
+Koji od sledecih funkcionalnih jezika je najistaknutiji predstavnik funkcionalne paradigme
+Sheme
+Haskell 
+Lisp
+Scala
+Lisp
+Funkcionalna paradigma
+Kada je nastala funkcionalna paradigma 
+50ih i 60ih
+60ih i 70ih
+70ih i 80ih
+80ih i 90ih
+50ih i 60ih
+Funkcionalna paradigma
+Koji od funkcionalnih jezika je ponovo oživeo ovaj vid programiranja
+Lisp
+Scheme
+Haskell
+Scala
+Haskell
+Funkcionalna paradigma
+Koji od narednih jezika pripada funkcionalnoj paradigmi
+Python
+Prolog
+FuncCell
+ML
+ML
+Funkcionalna paradigma
+Izbaci nefunkcionalnog uljeza 
+Sheme 
+ML
+Eiffel
+Lisp
+Eiffel
+Funkcionalna paradigma
+Logička paradigma je 
+Deklarativna
+Imperativna
+Proceduralna
+Funkcionalna
+Deklarativna
+Logička paradigma
+Kod logičke paradigme težimo razmisljanju najsličnijem
+Svakodnevnom životu
+Receptu za kuvanje
+Rešavanju matematičkih problema
+Kreiranju umetničkog dela
+Svakodnevnom životu
+Logička paradigma
+Formalizam za imperativne jezike je
+Lambda račun
+Tjuringova mašina
+Logika prvog reda
+Matematicke funkcije
+Tjuringova mašina
+Imperativna paradigma
+Formalizam za funkcionalne jezike je
+Lambda račun
+Tjuringova mašina
+Logika prvog reda
+Matematicke funkcije
+Lambda račun
+Funkcionalna paradigma
+Formalizam za logičke jezike je
+Lambda račun
+Tjuringova mašina
+Logika prvog reda
+Matematicke funkcije
+Logika prvog reda
+Logička paradigma
+Koji od navedenih logičkih jezika je najpoznatiji
+Prolog
+Datalog
+Parlog
+LIFE
+Prolog
+Logička paradigma
+Koji je prvi logički jezik
+ASP ,1967
+Solver ,1968
+ABSYS ,1967
+ILOG ,1968
+ABSYS ,1967
+Logička paradigma
+Koje godine je bila prva međunarodna konferencija o Prologu u Marseju
+1981
+1982
+1983
+1984
+1982
+Logička paradigma
+Koje godine je ISO izbacio prvi standard za Prolog
+1992
+1993
+1994
+1995
+1995
+Logička paradigma
+ASP za izračunavanje koristi ________ a Prolog ________
+Rešavače za iskaznu logiku, metod rezolucije
+Metod rezolucije, rešavače za iskaznu logiku
+Rešavače za iskaznu logiku, rešavače za iskaznu logiku
+Metod rezolucije, metod rezolucije
+Rešavače za iskaznu logiku, metod rezolucije
+Logička paradigma
+ASP se najčešće koristi za 
+Pretragu kod NP teških problema, npr bojenje grafova, hamiltonove cikluse
+Integraciju podataka, izvlačenje podataka, umrežavanje,cloud computing
+Podršku relacionim bazama podataka
+Crtanje
+Pretragu kod NP teških problema, npr bojenje grafova, hamiltonove cikluse
+Logička paradigma
+Datalog se najčešće koristi za 
+Pretragu kod NP teških problema, npr bojenje grafova, hamiltonove cikluse
+Integraciju podataka, izvlačenje podataka, umrežavanje,cloud computing
+Podršku relacionim bazama podataka
+Crtanje
+Integraciju podataka, izvlačenje podataka, umrežavanje,cloud computing
+Logička paradigma
+Šta nije dobra primena logičkog programiranja
+Rešavanje problema matematičke logike
+I/O algoritme
+Automatizaciju projektovanja
+Obradu prirodnih jezika
+I/O algoritme
+Logička paradigma
+Od formula logike prvog reda u Prologu se mogu izraziti
+Sve formule logike prvog reda
+Samo Hornove klauze
+Sve formule osim Hornovih klauza 
+U Prologu ne mogu da se izraze formule logike prvog reda
+Samo Hornove klauze
+Logička paradigma
+Izbaciti uljeza: Programiranje u Prologu se sastoji od
+Obezbeđivanja činjenica i objektima i odnosima među njima
+Definisanja pravila o objektima i odnosa među njima
+Enkapsuliranja objekata i odnosa među njima
+Formiranja upita o objektima i odnosima među njima
+Enkapsuliranja objekata i odnosa među njima
+Logička paradigma
+Osnovni gradivni elementi Prologa su
+Termovi
+Strukture 
+Predikati
+Atomi
+Termovi
+Logička paradigma
+Funktor predstavlja naziv _____, a argumenti nazive _______
+Objekata, relacije
+Objekata, objekata
+Relacije, objekata
+Relacije, relacije
+Relacije, objekata
+Logička paradigma
+Činjenice u Prologu su
+Hornove klauze bez negiranih literala
+Hornove klauze u punom obliku
+Hornove klauze bez nenegiranog literala (A1,A2,...,An)
+Osnovni gradivni elementi Prologa
+Hornove klauze bez negiranih literala
+Logička paradigma
+Pravila u Prologu su
+Hornove klauze bez negiranih literala
+Hornove klauze u punom obliku
+Hornove klauze bez nenegiranog literala (A1,A2,...,An)
+Osnovni gradivni elementi Prologa
+Hornove klauze u punom obliku
+Logička paradigma
+Upiti u Prologu su
+Hornove klauze bez negiranih literala
+Hornove klauze u punom obliku
+Hornove klauze bez nenegiranog literala (A1,A2,...,An)
+Osnovni gradivni elementi Prologa
+Hornove klauze bez nenegiranog literala (A1,A2,...,An)
+Logička paradigma
+Kod koje paradigme je ideja da se softver sklapa iz gotovih delova
+Konkurentne
+Skript 
+Reaktivne 
+Komponentne
+Komponentne
+Osnovna pitanja
+Sta je komponenta kod komponentnog programiranja
+Jedinica funkcionalnosti sa ugovorenim interfejsom
+Jedinica posla koju treba napisati
+Jedinica kojoj posebno treba napisati interfejs
+Jedinica koja može, ali ne mora biti deo programa
+Jedinica funkcionalnosti sa ugovorenim interfejsom
+Komponentna paradigma
+Interfejs je kod komponentnog programiranja 
+Deo implementacije
+Može biti, ali nije poželjno da bude deo implementacije
+Može biti i poželjno je da bude deo implementacije
+Odvojen od implementacije
+Odvojen od implementacije
+Komponentna paradigma
+Šta definiše način komunikacije sa komponentom
+Sama komponenta
+Komponentni komunikator
+Interfejs
+Sistem za prenos poruka
+Interfejs
+Komponentna paradigma
+Kakav prvenstveno treba da bude način povezivanja komponenti
+Jednostavan
+Jasan
+Logičan
+Standardizovan
+Jednostavan
+Komponentna paradigma
+Kreiranje programa kod komponentnog programiranja se vrši
+Pisanjem linije za linijom
+Biranjem komponenti i njihovim nasumičnim raspoređivanjem
+Biranjem komponenti i njihovim planskim postavljanjem
+Komponente se same raspoređuju, a mi pišemo eventove
+Biranjem komponenti i njihovim planskim postavljanjem
+Komponentna paradigma
+Šta nije forma konkurentnosti postoje kod konkurentne paradigme
+Konkurentnost u užem smislu
+Konkurentnost u širem smislu
+Paralelno programiranje
+Distribuirano programiranje
+Konkurentnost u širem smislu
+Konkurentna paradigma
+Konkurentnost u užem smislu karakteriše
+Jedan procesor, jedna memorija
+Jedan procesor, više memorija
+Više procesora, jedna memorija
+Više procesora, više memorija
+Jedan procesor, jedna memorija
+Konkurentna paradigma
+Paralelno programiranje karakteriše
+Jedan procesor, jedna memorija
+Jedan procesor, više memorija
+Više procesora, jedna memorija
+Više procesora, više memorija
+Više procesora, jedna memorija
+Konkurentna paradigma
+Distribuirano programiranje karakteriše
+Jedan procesor, jedna memorija
+Jedan procesor, više memorija
+Više procesora, jedna memorija
+Više procesora, više memorija
+Više procesora, više memorija
+Konkurentna paradigma
+Izbaci uljeza koji nije jezik za konkurentno programiranje
+Ada
+Modula 
+Java
+Cobol
+Cobol
+Konkurentna paradigma
+Ko upravlja teškim zadacima kod konkurentnog programiranja
+Sistem za upravljanje zadacima
+Sistem za upravljanje teškim zadacima
+Sistem za konkurentno izvodjenje
+Operativni sistem
+Operativni sistem
+Konkurentna paradigma
+Laki zadaci kod konkurentnog programiranja
+Zahtevaju posebne resurse 
+Ne zahtevaju posebne resurse jer im nisu potrebni
+Ne zahtevaju posebne resurse jer postoje unutar teškog zadatka
+Laki zadaci nisu vezani za konkurentno programiranje
+Ne zahtevaju posebne resurse jer postoje unutar teškog zadatka
+Konkurentna paradigma
+Koja od narednih nije biblioteka za upravljanje nitima kod konkurentnog programiranja
+POSIX Pthreads
+Java threads
+HELIX threads
+Win32 threads
+HELIX threads
+Konkurentna paradigma
+Za slanje poruka kod konkurentne paradigme NE mogu se koristiti
+Tokovi
+Cevi
+Soketi
+Slamke (Straws)
+Slamke (Straws)
+Konkurentna paradigma
+Šta NIJE osnovno stanje niti u konkurentnoj paradigmi
+Početno
+Blokirano
+Pauzirano 
+Umrtvljeno
+Pauzirano
+Konkurentna paradigma
